@@ -1,0 +1,10 @@
+C:\Users\karkt\Desktop\NMM\NMM\bin\Debug\NMM.exe.config
+C:\Users\karkt\Desktop\NMM\NMM\bin\Debug\NMM.exe
+C:\Users\karkt\Desktop\NMM\NMM\bin\Debug\NMM.pdb
+C:\Users\karkt\Desktop\NMM\NMM\obj\Debug\NMM.csprojAssemblyReference.cache
+C:\Users\karkt\Desktop\NMM\NMM\obj\Debug\NMM.Properties.Resources.resources
+C:\Users\karkt\Desktop\NMM\NMM\obj\Debug\NMM.csproj.GenerateResource.cache
+C:\Users\karkt\Desktop\NMM\NMM\obj\Debug\NMM.csproj.CoreCompileInputs.cache
+C:\Users\karkt\Desktop\NMM\NMM\obj\Debug\NMM.exe
+C:\Users\karkt\Desktop\NMM\NMM\obj\Debug\NMM.pdb
+C:\Users\karkt\Desktop\NMM\NMM\obj\Debug\NMM.GameVisuals.resources
